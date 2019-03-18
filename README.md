@@ -1,4 +1,4 @@
-# Jumanah's Website
+# Jumanah's Awesome Website
 
 This is a personal website for me. 
 
