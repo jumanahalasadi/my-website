@@ -29,3 +29,4 @@
 * Board games
 * Soccer
 * Music
+* Sushi
